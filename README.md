@@ -1,7 +1,7 @@
 # Industrialisation de test
 
-**TP EPSI** 
-Industrialisation et processus de test 
+**TP EPSI :** 
+ Industrialisation et processus de test 
 Hébergement sur un serveur Tomcat 
 
 ## Outils 
